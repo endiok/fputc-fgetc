@@ -1,0 +1,2 @@
+# fputc-fgetc
+fputc/fgetc
